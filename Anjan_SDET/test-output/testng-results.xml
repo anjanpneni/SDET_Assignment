@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-06T20:14:24 IST" name="Suite" finished-at="2023-12-06T20:15:03 IST" duration-ms="38188">
+    <groups>
+    </groups>
+    <test started-at="2023-12-06T20:14:24 IST" name="Test" finished-at="2023-12-06T20:15:03 IST" duration-ms="38188">
+      <class name="Question5.Question3_TestNGImplementation">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Question5.Question3_TestNGImplementation@57a78e3]" started-at="2023-12-06T20:14:24 IST" name="beforeMethod" finished-at="2023-12-06T20:14:41 IST" duration-ms="16861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="makeMyTripLogVerified()[pri:0, instance:Question5.Question3_TestNGImplementation@57a78e3]" started-at="2023-12-06T20:14:41 IST" name="makeMyTripLogVerified" finished-at="2023-12-06T20:14:41 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makeMyTripLogVerified -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Question5.Question3_TestNGImplementation@57a78e3]" started-at="2023-12-06T20:14:41 IST" name="afterMethod" finished-at="2023-12-06T20:14:42 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Question5.Question3_TestNGImplementation -->
+      <class name="Question5.Question4_TestNGImplementation">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Question5.Question4_TestNGImplementation@6f01b95f]" started-at="2023-12-06T20:14:42 IST" name="beforeMethod" finished-at="2023-12-06T20:14:57 IST" duration-ms="15286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="makeMyTripLogVerified()[pri:0, instance:Question5.Question4_TestNGImplementation@6f01b95f]" started-at="2023-12-06T20:14:57 IST" name="makeMyTripLogVerified" finished-at="2023-12-06T20:15:02 IST" duration-ms="4101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makeMyTripLogVerified -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Question5.Question4_TestNGImplementation@6f01b95f]" started-at="2023-12-06T20:15:02 IST" name="afterMethod" finished-at="2023-12-06T20:15:03 IST" duration-ms="993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Question5.Question4_TestNGImplementation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
